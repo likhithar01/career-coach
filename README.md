@@ -35,4 +35,4 @@ career-coach/
 ├── app.py                   ← Streamlit UI
 ├── requirements.txt
 └── .env
-
+🌐 **Live Demo:** [Click here](https://career-coach-7cflzzmsshx5w6wkux5qhf.streamlit.app/)
