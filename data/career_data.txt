@@ -1,0 +1,93 @@
+RESUME TIPS:
+- Keep your resume to 1 page if you have less than 5 years of experience.
+- Use action verbs like "built", "designed", "led", "improved".
+- Always tailor your resume to the job description.
+- Include measurable achievements e.g. "Increased sales by 30%".
+- Avoid generic phrases like "team player" or "hard worker".
+
+INTERVIEW TIPS:
+- Research the company before the interview.
+- Use the STAR method: Situation, Task, Action, Result.
+- Prepare 3-5 questions to ask the interviewer.
+- Practice common questions: "Tell me about yourself", "What are your weaknesses?".
+- Send a thank-you email within 24 hours after the interview.
+
+JOB SEARCH TIPS:
+- Apply to jobs on LinkedIn, Naukri, Internshala, and company websites.
+- Network actively — 70% of jobs are filled through referrals.
+- Follow up on applications after 1 week.
+- Customize your cover letter for each application.
+
+CAREER PATHS IN TECH:
+- Software Engineer: Learn DSA, system design, Python/Java.
+- Data Scientist: Learn Python, ML, statistics, SQL.
+- Product Manager: Learn user research, roadmapping, agile.
+- DevOps Engineer: Learn Docker, Kubernetes, CI/CD pipelines.
+
+SALARY NEGOTIATION:
+- Always negotiate — 70% of employers expect it.
+- Research market salary on Glassdoor, Levels.fyi, AmbitionBox.
+- Never give a number first — ask what the budget is.
+- Negotiate benefits too: remote work, learning budget, extra leave.
+
+SKILLS IN DEMAND (2024-2025):
+- AI/ML, Prompt Engineering, LLMs
+- Cloud: AWS, Azure, GCP
+- Cybersecurity
+- Full Stack Web Development
+- Data Analytics
+
+RESUME FORMATS:
+- Chronological: Best for people with steady work history.
+- Functional: Best for career changers or gaps in employment.
+- Combination: Best for experienced professionals.
+- Always use ATS-friendly formats — avoid tables, images, columns.
+- Use PDF format when submitting resumes.
+
+COVER LETTER TIPS:
+- Keep it to 3 paragraphs: Why you, Why this company, Call to action.
+- Never start with "I am applying for...".
+- Mirror the job description language.
+- Show enthusiasm for the company specifically.
+- Keep it under 400 words.
+
+LINKEDIN TIPS:
+- Use a professional headshot — profiles with photos get 21x more views.
+- Write a headline beyond just your job title.
+- Add 5+ relevant skills and get endorsements.
+- Post content regularly to increase visibility.
+- Connect with recruiters in your target companies.
+- Turn on "Open to Work" if actively job hunting.
+
+COMMON INTERVIEW QUESTIONS & HOW TO ANSWER:
+- "Tell me about yourself" → 2 min pitch: past, present, future.
+- "Why do you want this job?" → Research + align with your goals.
+- "What is your weakness?" → Real weakness + how you're improving.
+- "Where do you see yourself in 5 years?" → Growth-focused answer.
+- "Why are you leaving your current job?" → Stay positive, never badmouth.
+
+FREELANCING & SIDE INCOME:
+- Platforms: Upwork, Fiverr, Toptal, Freelancer.
+- Best freelance skills: Web dev, Design, Writing, Data analysis, AI/ML.
+- Start with lower rates to build reviews, then increase.
+- Always have a contract and milestone-based payments.
+
+HIGHER EDUCATION ADVICE:
+- MBA is useful for management/consulting roles.
+- MS in CS/Data Science is valuable for technical roles.
+- Online certifications: Google, AWS, Coursera, Udemy are well-recognized.
+- MOOCs can substitute degrees for many tech jobs today.
+
+PRODUCTIVITY & CAREER GROWTH:
+- Build a personal brand on LinkedIn and GitHub.
+- Contribute to open source projects.
+- Write technical blogs on Medium or Hashnode.
+- Attend meetups, hackathons, and tech conferences.
+- Find a mentor in your field.
+- Review and update your resume every 6 months.
+
+REMOTE WORK TIPS:
+- Highlight remote work experience on your resume.
+- Platforms for remote jobs: Remote.co, We Work Remotely, Remotive.
+- Show self-management and communication skills in interviews.
+- Have a professional background for video interviews.
